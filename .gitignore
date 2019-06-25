@@ -1,0 +1,5 @@
+*.code-workspace
+*.py[cod]
+*.sublime-workspace
+/.idea
+/__pycache__
